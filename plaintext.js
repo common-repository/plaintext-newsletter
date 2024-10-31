@@ -1,0 +1,1 @@
+jQuery("#options-message_text").before(nlpt.dropdown);
